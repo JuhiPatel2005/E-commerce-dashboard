@@ -2,6 +2,17 @@
 
 A responsive **E-Commerce Dashboard built with React** that demonstrates authentication, protected routes, product browsing, and cart management **without using a backend**. All user data and sessions are handled on the client using **localStorage**.
 
+
+## 🌐 Deployment
+
+The project is deployed using:
+
+- **Vercel**
+
+Live Demo: https://e-commerce-dashboard-cyan.vercel.app/
+
+---
+
 ## 🚀 Features
 
 ### 🔐 Authentication
@@ -160,15 +171,6 @@ npm run dev
 
 ---
 
-## 🌐 Deployment
-
-The project is deployed using:
-
-- **Vercel**
-
-Live Demo: https://e-commerce-dashboard-cyan.vercel.app/
-
----
 
 ## 🎯 Key Concepts Demonstrated
 
